@@ -1,3 +1,5 @@
 novo doc.
 mais uma linha.
 outra linha
+agora dentro do dw.
+mais um no dw.
